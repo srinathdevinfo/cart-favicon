@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: srinathdevinfo
 Tags: woocommerce, cart favicon
 Requires at least: 4.7
 Tested up to: 5.7.2
